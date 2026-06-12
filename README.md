@@ -180,3 +180,6 @@ This pipeline supports:
 ## Summary
 
 The Texas TCEQ Violations and Compliance Analytics Pipeline is a full data workflow that takes raw environmental compliance data from JSON and CSV sources, processes it through MongoDB and PostgreSQL, standardizes and merges it with pandas, and produces a final dashboard-ready dataset for analysis and visualization.
+
+Recording
+https://drive.google.com/file/d/1H6W3FAALJeXJ3Yt_YNo4kBmVGhDTS9IR/view?usp=sharing
